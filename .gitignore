@@ -1,0 +1,13 @@
+# exclude these directories
+
+Cookies/**
+CourtCounter/**
+del/**
+FavoriteToys/**
+happyBirthday/**
+HappyBudday/**
+inher/**
+JustJava/**
+Menu/**
+MyFirstApp/**
+PracticeSet2/**
